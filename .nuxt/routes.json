@@ -1,0 +1,16 @@
+[
+  {
+    "name": "movies-slug",
+    "path": "/movies/:slug?",
+    "component": "C:\\\\Users\\\\esteb\\\\Desktop\\\\Arquitectura de informacion\\\\tarea-2-arqui\\\\pages\\\\movies\\\\_slug.vue",
+    "chunkName": "pages/movies/_slug",
+    "_name": "_18dda98c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\esteb\\\\Desktop\\\\Arquitectura de informacion\\\\tarea-2-arqui\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_f68cfb12"
+  }
+]
